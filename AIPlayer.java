@@ -1,5 +1,5 @@
 import java.util.List;
-//testtest
+//testtesttest
 public class AIPlayer extends Player {
     /* **
      * Attribut
